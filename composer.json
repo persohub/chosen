@@ -1,0 +1,13 @@
+{
+    "name": "persohub/chosen",
+    "type": "library",
+    "keywords": [
+        "multiselect"
+    ],
+    "repositorys": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/persohub/chosen"
+        }
+    ]
+}
